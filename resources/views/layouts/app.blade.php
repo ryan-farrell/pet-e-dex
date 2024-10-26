@@ -26,7 +26,7 @@
 </div>
 
 <footer>
-    <p class="mb-0"><i class="ph ph-copyright"></i> 2024 Shopblocks Dev Test</p>
+    <p class="m-3"><i class="ph ph-copyright"></i> 2024 Shopblocks Dev Test</p>
 </footer>
 
 <script src="{{ asset('js/boostrap5-3.min.js') }}"></script>

@@ -35,4 +35,10 @@ return [
         ],
     ],
 
+    'petapi' => [
+        'catapi' => [
+            'base_url' => 'https://api.thecatapi.com/v1',
+            'api_key' => env('API_CAT'),
+        ],
+    ],
 ];
